@@ -9,6 +9,7 @@ body {
 }
 
 img {
+    border-radius: 16px;
     max-width: 50%;
 }
 
