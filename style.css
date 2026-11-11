@@ -10,3 +10,7 @@ body {
 img {
     max-width: 50%;
 }
+
+a {
+    text-align: center;
+}
