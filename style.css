@@ -1,5 +1,5 @@
 body {
-    background-color: #98C9A3;
+    /* background-color: #98C9A3; */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     display: flex;
@@ -18,18 +18,18 @@ a {
 }
 
 header {
-    background-color: #FF4365;
+    /* background-color: #FF4365; */
 }
 
 #introduction-section {
-    background-color: #FFFFF3;
+    /* background-color: #FFFFF3; */
 }
 
 #projects-section {
-    background-color: #00D9C0;
+    /* background-color: #00D9C0; */
 }
 
 footer {
-    background-color: #030301;
+    /* background-color: #030301; */
     color: #FFFFF3;
 }
